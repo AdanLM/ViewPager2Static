@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ViewPager2Static</string>
+    <string name="title_slide_one">Pide comida!</string>
+    <string name="desc_slide_one">Ordena comidad de tu restaurante favorito!</string>
+    <string name="img_desc_food">Comida</string>
+    <string name="img_desc_movie">Peliculas</string>
+    <string name="title_slide_two">Peliculas</string>
+    <string name="desc_slide_two">Disfruta de tus peliculas favoritas con los mejores asientos!</string>
+    <string name="img_desc_gift">Regalos</string>
+    <string name="title_slide_three">Regalos</string>
+    <string name="desc_slide_three">Encuentra los mejores regalos para tus amigos!</string>
+    <string name="img_desc_travel">Viajar</string>
+    <string name="title_slide_four">Viajar</string>
+    <string name="desc_slide_four">Te llevamos a donde tu quieras, encuentra vuelos baratos con nosotros</string>
+    <string name="btn_next">Sig.</string>
+    <string name="skip">Saltar</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="start">Inicio</string>
+</resources>
